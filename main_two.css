@@ -1,0 +1,206 @@
+@media only screen and (max-width: 428px)
+
+{
+    header{
+        padding: 22px 0px;
+    }
+
+    header nav {
+
+        display: none;
+       
+       
+}
+header h1 {
+    color: white;
+    font-family: arial;
+    font-size: 31px;
+}
+.top_container {
+    height: 1145px !important ;}
+
+.top_container .container_one {
+    margin: -150px 10%;
+    position: relative;
+    top: 149px;
+}
+.up_img, .up_text {
+    width: 100% !important;
+}
+..up_tex{
+    margin-top: 18px;
+}
+.container_two{
+    margin: 0px 0px !important;
+    top: 65px;
+}
+.up_text_mid {
+    width: 84% !important;
+    margin: 0 10%;
+}
+
+.up_img_mid{
+    width: 101%;
+    margin-top: 14px;
+    height: 272px;
+}
+.mid_container {
+    overflow: hidden;
+}
+.sponcer{
+    position: relative;
+  top: 24px;
+}
+.brand {
+    margin-top: 26px;
+}
+.container_three{
+    margin: 114px 10%;
+}
+.box_one, .box_two, .box_three, .box_four, .box_five{
+    width: 100%;
+    margin-top: 44px;
+  border-radius: 6px 6px 0px 0px;
+  overflow: hidden;
+  box-shadow: rgb(227, 189, 189) 5px 3px 7px;
+  display: inline-block;
+  position: inherit;
+  height: auto;
+}
+.box_text{
+    margin-top: -4px;
+}
+.recent_work h1{
+    font-size: 34px;
+    margin-top: -25px;
+}
+.box_text{
+    height: 92px;
+}
+.recent_h{
+    font-size: 56px;
+
+}
+.box_text_low h3{
+    color: white;
+  text-align: justify;
+  font-size: 19px;
+ 
+  padding: 14px 43px;
+  font-weight: 400;
+  font-family: system-ui;
+}
+.box_text_low{
+    width: 100%;
+  background: rgb(66, 0, 209);
+  display: inline-block;
+  float: right;
+  position: relative;
+  top: 41px;
+  border-radius: 6px;
+  height: 285px;
+}
+.help_text{
+    width: 100%;
+}
+.help_text h1{
+    font-size: 51px;
+}
+.help_text p{
+    font-size: 15px;
+  line-height: 31px;
+  margin-top: 11px;
+}
+.help_form{
+    float: left;
+}
+.same_input{
+    padding: 15px 199px 15px 9px;
+}
+.same_input_massage{
+    padding: 15px 199px 138px 9px;
+}
+
+.help_form
+{
+    margin-top: 21px;
+}
+.help_form a{
+    padding: 16px 32px;
+    position: relative;
+  top: 50px;
+}
+.help_container{
+    height: 864px;
+}
+
+.comment_container h1{
+    position: relative;
+  top: 67px;
+  font-size: 37px;
+  margin: 0 10%;
+}
+.comment_container{
+    margin: 0px 0px;
+}
+.comment_box{
+    border-radius: 0px;
+    position: relative;
+  top: 126px;
+}
+.comment_text{
+    position: relative;
+  top: 17%;
+  margin: 0px -2px;
+}
+.comment_text p{
+    color: white;
+  width: 331px;
+  position: relative;
+  left: 76px;
+  font-size: 21px;
+}
+.comment_img{
+    width: 73px;
+  height: 73px;
+}
+.owner_name{
+    position: relative;
+  top: 26px;
+  left: 11px;
+}
+
+.low_owner{
+    float: left;
+  top: 158px;
+  position: relative;
+    left: 68px;
+}
+.last_container{
+    margin-top: -175px;
+}
+
+.side_map, .contact{
+    width: 100%;
+    text-align: center;
+}
+.submmit{
+    position: relative;
+  left: -119px;
+  top: -87px;
+}
+
+.submmit input{
+    padding: 14px 76px 13px 9px;
+}
+.submmit button{
+    padding: 14px 40px 8px 34px;
+}
+.last_container{
+    height: 924px;
+}
+.left_quat{
+    margin-right: 2px;
+}
+
+}
